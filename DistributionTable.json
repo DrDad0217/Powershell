@@ -1,0 +1,2032 @@
+[
+  {
+    "DisplayName": "DL, City Traffic - Network",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Traffic - Network",
+    "Email": null,
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Personnel Changes",
+    "GroupScope": 2,
+    "SamAccountName": "FirePersonnelChanges",
+    "Email": null,
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City COV Firewall Team",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City COV Firewall Team",
+    "Email": null,
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City 415 Alerts",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City 415 Alerts",
+    "Email": "DL_City415Alerts@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City 415 Lobby",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City 415 Lobby",
+    "Email": "DL_City415Lobby@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City 415 Building 3rd Floor",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City 415 Building 3rd Floor",
+    "Email": "DL_City415Building3rdFloor@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City ACT",
+    "GroupScope": 2,
+    "SamAccountName": "cityact",
+    "Email": "cityact@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City AP Close",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City AP Close",
+    "Email": "DL_CityAPClose@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City IT Hansen Support",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City IT Hansen Support",
+    "Email": "DL_CityITHansenSupport@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Utility Billing Notifications IT Only",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Utility Billing Notifications IT Only",
+    "Email": "DL_CityUtilityBillingNotificationsITOnly@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Property and Services",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Property and Services",
+    "Email": "DL_CityPropertyandServices@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Better Streets",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Better Streets",
+    "Email": "DL_CityBetterStreets@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City BI Developer Notifications",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City BI Developer Notifications",
+    "Email": "DL_CityBIDeveloperNotifications@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Building/Fire Code Commission",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Building_Fire Code Commission",
+    "Email": "DL_CityBuilding_FireCodeCommission@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City CCRA Board",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City CCRA Board",
+    "Email": "DL_CityCCRABoard@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Civil Service Commission",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Civil Service Commission",
+    "Email": "DL_CityCivilServiceCommission@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Class Support Team",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Class Support Team",
+    "Email": "DL_CityClassSupportTeam@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Class Users",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Class Users",
+    "Email": "DL_CityClassUsers@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City CNT",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City CNT",
+    "Email": "DL_CityCNT@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Communications Advisory Team",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Communications Advisory Team",
+    "Email": "DL_CityCommunicationsAdvisoryTeam@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City COV Payroll Team",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City COV Payroll Team",
+    "Email": "DL_CityCOVPayrollTeam@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Credit Card Terminal Support",
+    "GroupScope": 2,
+    "SamAccountName": "DL_City Credit Card Terminal Support",
+    "Email": "DL_CityCreditCardTerminalSupport@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City CSS Support",
+    "GroupScope": 2,
+    "SamAccountName": "css",
+    "Email": "css@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Diversity Advisory Council",
+    "GroupScope": 2,
+    "SamAccountName": "diversity",
+    "Email": "diversity@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Downtown Team",
+    "GroupScope": 2,
+    "SamAccountName": "downtm",
+    "Email": "downtm@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City DRA Board",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City DRA Board",
+    "Email": "DL_CityDRABoard@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City E.R.I.C.",
+    "GroupScope": 2,
+    "SamAccountName": "dlcityeric",
+    "Email": "dlcityeric@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Emergency Email",
+    "GroupScope": 2,
+    "SamAccountName": "emergency",
+    "Email": "emergency@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Finance Non-Represented",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Finance Non-Represented",
+    "Email": "DL_CityFinanceNon-Represented@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Finance Treasury",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Finance Treasury",
+    "Email": "DL_CityFinanceTreasury@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire CO Step Increase",
+    "GroupScope": 2,
+    "SamAccountName": "cityfireCO",
+    "Email": "cityfireCO@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Duty Chiefs",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Duty Chiefs",
+    "Email": "DL_CityFireDutyChiefs@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Fuel Dip",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Fuel Dip",
+    "Email": "DL_CityFireFuelDip@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire SCBA Committee",
+    "GroupScope": 2,
+    "SamAccountName": "cityfirescbacommitte",
+    "Email": "cityfirescbacommitte@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Shift Command",
+    "GroupScope": 2,
+    "SamAccountName": "cityfireshift",
+    "Email": "cityfireshift@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Shop",
+    "GroupScope": 2,
+    "SamAccountName": "cityfireshop",
+    "Email": "cityfireshop@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Staffing Admins",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Staffing Admins",
+    "Email": "DL_CityFireStaffingAdmins@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Hall Emergency Notifications",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Hall Emergency Notifications",
+    "Email": "DL_CityHallEmergencyNotifications@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Hansen 8 Users",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Hansen 8 Users",
+    "Email": "DL_CityHansen8Users@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Hansen ENG CDD Engineering Tech",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Hansen ENG CDD Engineering Tech",
+    "Email": "DL_CityHansenENGCDDEngineeringTech@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Hansen Planning Review",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Hansen Planning Review",
+    "Email": "DL_CityHansenPlanningReview@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City HR AFSCME",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City HR AFSCME",
+    "Email": "DL_CityHRAFSCME@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City HR Deputy Fire Marshal",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City HR Deputy Fire Marshal",
+    "Email": "DL_CityHRDeputyFireMarshal@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City HR Fire Command",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City HR Fire Command",
+    "Email": "DL_CityHRFireCommand@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City HR Fire Suppression",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City HR Fire Suppression",
+    "Email": "DL_CityHRFireSuppression@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City HR Machinists",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City HR Machinists",
+    "Email": "DL_CityHRMachinists@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City HR OPEIU",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City HR OPEIU",
+    "Email": "DL_CityHROPEIU@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City HR Plumbers and Steamfitters",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City HR Plumbers and Steamfitters",
+    "Email": "DL_CityHRPlumbersandSteamfitters@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City HR Police Command",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City HR Police Command",
+    "Email": "DL_CityHRPoliceCommand@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City HR Police Guild",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City HR Police Guild",
+    "Email": "DL_CityHRPoliceGuild@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City HR Teamsters",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City HR Teamsters",
+    "Email": "DL_CityHRTeamsters@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City HR WorkComp",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City HR WorkComp",
+    "Email": "DL_CityHRWorkComp@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Information Security",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Information Security",
+    "Email": "DL_CityInformationSecurity@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City IT Network Administrators",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City IT Network Administrators",
+    "Email": "DL_CityITNetworkAdministrators@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City IVR/WEB",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City IVR_WEB",
+    "Email": "DL_CityIVR_WEB@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Leadership Alumni",
+    "GroupScope": 2,
+    "SamAccountName": "leadershipalumni",
+    "Email": "leadershipalumni@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, Luepke Timekeepers",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ Luepke Timekeepers",
+    "Email": "DL_LuepkeTimekeepers@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City News Releases",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City News Releases",
+    "Email": "DL_CityNewsReleases@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Newsletters",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Newsletters",
+    "Email": "DL_CityNewsletters@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City NewsRelFWD",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City NewsRelFWD",
+    "Email": "DL_CityNewsRelFWD@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Operations Trench",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Operations Trench",
+    "Email": "DL_CityOperationsTrench@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Paging Daily Staffing",
+    "GroupScope": 2,
+    "SamAccountName": "DL_City Fire Paging Daily Staffing",
+    "Email": "DL_CityFirePagingDailyStaffing@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Paging All On-Duty Crews",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Paging All On-Duty Crews",
+    "Email": "DL_CityFirePagingAllOn-DutyCrews@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Paging Emergency Call Back PIO(s)",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Paging Emergency Call Back PIO(s)",
+    "Email": "DL_CityFirePagingEmergencyCallBackPIOs@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Paging HazMat Team Leaders",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Paging HazMat Team Leaders",
+    "Email": "DL_CityFirePagingHazMatTeamLeaders@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City IT Network Admin Pagers",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City IT Network Admin Pagers",
+    "Email": "DL_CityITNetworkAdminPagers@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Oracle HR Alerts",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Oracle HR Alerts",
+    "Email": "DL_CityOracleHRAlerts@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Oracle Admins",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Oracle Admins",
+    "Email": "DL_CityOracleAdmins@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Paging Emergency Call Back A Shift",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Paging Emergency Call Back A Shift",
+    "Email": "DL_CityFirePagingEmergencyCallBackAShift@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Paging Emergency Call Back C Shift",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Paging Emergency Call Back C Shift",
+    "Email": "DL_CityFirePagingEmergencyCallBackCShift@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Paging Emergency Call Back D Shift",
+    "GroupScope": 2,
+    "SamAccountName": "firecallbackdshift",
+    "Email": "firecallbackdshift@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Paging Emergency Call Back B Shift",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Paging Emergency Call Back B Shift",
+    "Email": "DL_CityFirePagingEmergencyCallBackBShift@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Parks Payment Server",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Parks Payment Server",
+    "Email": "DL_CityParksPaymentServer@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City SS Leadership Team",
+    "GroupScope": 2,
+    "SamAccountName": "sslt",
+    "Email": "sslt@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Utility Billing",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Utility Billing",
+    "Email": "DL_CityUtilityBilling@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Timekeepers",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Timekeepers",
+    "Email": "DL_CityTimekeepers@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City SSRS Testers",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City SSRS Testers",
+    "Email": "DL_City_SSRS_Testers@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Utilities SQL Operators",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Utilities SQL Operators",
+    "Email": "DL_CityUtilitiesSQLOperators@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Requesters & Preparers",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Requesters & Preparers",
+    "Email": "DL_CityRequestersPreparers@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City PW Asset Management - GIS Notifications",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City PW Asset Management - GIS Notifications",
+    "Email": "DL_CityPWAssetManagement-GISNotifications@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Recreation Hiring",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Recreation Hiring",
+    "Email": "DL_CityRecreationHiring@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Wellness Committee",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Wellness Committee",
+    "Email": "DL_CityWellnessCommittee@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Water Protection",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Water Protection",
+    "Email": "CityWaterProtection@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, CityRecreation i-9",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ CityRecreation i-9",
+    "Email": "DL_CityRecreationi-9@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD Spanish Speakers",
+    "GroupScope": 2,
+    "SamAccountName": "vpdskspk",
+    "Email": "vpdskspk@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD Peer Support",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City VPD Peer Support",
+    "Email": "DL_CityVPDPeerSupport@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD Logistics",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City VPD Logistics",
+    "Email": "DL_CityVPDLogistics@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD Honor Guard",
+    "GroupScope": 2,
+    "SamAccountName": "vpdguard",
+    "Email": "vpdguard@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD Evidence",
+    "GroupScope": 2,
+    "SamAccountName": "cityvpdevidence",
+    "Email": "cityvpdevidence@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD DV Unit",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City VPD DV Unit",
+    "Email": "DL_CityVPDDVUnit@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD Commanders",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City VPD Commanders",
+    "Email": "vpdcmdrs@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Violations Bureau",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Violations Bureau",
+    "Email": "DL_CityViolationsBureau@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Vehicle Accidents",
+    "GroupScope": 2,
+    "SamAccountName": "Vehicle Accidents",
+    "Email": "VehicleAccidents@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Vancouver Water Resource Center",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Vancouver Water Resource Center",
+    "Email": "DL_CityVancouverWaterResourceCenter@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Traffic Signals",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Traffic Signals",
+    "Email": "DL_CityTrafficSignals@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Traffic Bucket Truck",
+    "GroupScope": 2,
+    "SamAccountName": "DL_City Traffic Bucket Truck",
+    "Email": "DL_CityTrafficBucketTruck@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Shops",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Shops",
+    "Email": "DL_CityShops@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Salary Review Commission",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Salary Review Commission",
+    "Email": "DL_CitySalaryReviewCommission@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Recreation Staff",
+    "GroupScope": 2,
+    "SamAccountName": "citypr",
+    "Email": "citypr@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Photo Red Light",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Photo Red Light",
+    "Email": "DL_CityPhotoRedLight@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Parks VTC CSR/CSH Front Desk Staff",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Parks VTC CSR_CSH Front Desk Staff",
+    "Email": "DL_CityParksVTCCSR_CSHFrontDeskStaff@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Parks Planning & Development Division",
+    "GroupScope": 2,
+    "SamAccountName": "DL City Parks Planning & Development Division",
+    "Email": "DLCityParksPlanningDevelopmentDivision@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Parks & Recreation Admin Main Line Help",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Parks & Recreation Admin Main Line Help",
+    "Email": "DL_CityParksRecreationAdminMainLineHelp@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Ops Support Specs_Forward",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Ops Support Specs_Forward",
+    "Email": "DL_CityOpsSupportSpecs_Forward@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Operations Trench Paging",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Operations Trench Paging",
+    "Email": "DL_CityOperationsTrenchPaging@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Hansen ENG GIS",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Hansen ENG GIS",
+    "Email": "DL_CityHansenENGGIS@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Procurement Requisitioners",
+    "GroupScope": 2,
+    "SamAccountName": "dlcitypreq",
+    "Email": "dlcitypreq@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City PW Selectron Fail to Post",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City PW Selectron Fail to Post-189363059",
+    "Email": "citypwselectronfailtopost@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City BUDGET ANALYSTS",
+    "GroupScope": 2,
+    "SamAccountName": "dlcitybudganal",
+    "Email": "dlcitybudganal@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Community Services ESB",
+    "GroupScope": 2,
+    "SamAccountName": "comsvcesb",
+    "Email": "comsvcesb@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire D Shift Captains",
+    "GroupScope": 2,
+    "SamAccountName": "CityFireDShiftCaptains",
+    "Email": "CityFireDShiftCaptains@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Work Related Illness/Injury",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Work Related Illness_Injury",
+    "Email": "DL_CityFireWorkRelatedIllness_Injury@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Safety Committee",
+    "GroupScope": 2,
+    "SamAccountName": "cityfiresafety",
+    "Email": "cityfiresafety@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Hansen ENG PAL Routing",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Hansen ENG PAL Routing",
+    "Email": "DL_CityHansenENGPALRouting@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Paging Tech-Res Team",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Paging Tech-Res Team",
+    "Email": "DL_CityFirePagingTech-ResTeam@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Department P-Card Authorized Users",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Department P-Card Authorized Users",
+    "Email": "DL_CityDepartmentP-CardAuthorizedUsers@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Firefighters",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Firefighters",
+    "Email": "DL_CityFireFirefighters@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City 415 Building 1st Floor",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City 415 Building 1st Floor",
+    "Email": "DL_City415Building1stFloor@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Award Committee",
+    "GroupScope": 2,
+    "SamAccountName": "cityfireaward",
+    "Email": "cityfireaward@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "City, DL CRT",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City CRT",
+    "Email": "DL_CityCRT@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City ACH totals from the direct debit process",
+    "GroupScope": 2,
+    "SamAccountName": "DL_City ACH totals from the direct debit process",
+    "Email": "DL_CityACHtotalsfromthedirectdebitprocess@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Hansen ENG As-Built",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Hansen ENG As-Built",
+    "Email": "DL_CityHansenENGAs-Built@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City CWLT",
+    "GroupScope": 2,
+    "SamAccountName": "dlcitycwlt",
+    "Email": "dlcitycwlt@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire D Shift",
+    "GroupScope": 2,
+    "SamAccountName": "cityfiredshift",
+    "Email": "cityfiredshift@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Paging Peer Support Team",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Paging Peer Support Team",
+    "Email": "DL_CityFirePagingPeerSupportTeam@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City DV Alarm Panels",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City DV Alarm Panels",
+    "Email": "DL_CityDVAlarmPanels@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Communications_CVTV",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Communications_CVTV",
+    "Email": "DL_CityCommunications_CVTV@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire RTA",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire RTA",
+    "Email": "DL_CityFireRTA@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Paging Tech-Res Team Leaders",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Technical Rescue Team Leaders",
+    "Email": "DL_CityFireTechnicalRescueTeamLeaders@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Paramedic",
+    "GroupScope": 2,
+    "SamAccountName": "cityfireparamedic",
+    "Email": "cityfireparamedic@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire B Shift",
+    "GroupScope": 2,
+    "SamAccountName": "cityfirebshift",
+    "Email": "cityfirebshift@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Paging Emergency Call Back Command",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Paging Emergency Call Back Command",
+    "Email": "DL_CityFirePagingEmergencyCallBackCommand@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Arson Investigation & Engineering",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Arson Investigation",
+    "Email": "DL_CityFireArsonInvestigation@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire A Shift Captains",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire A Shift Captains",
+    "Email": "DL_CityFireAShiftCaptains@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Academy Instructors",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Academy Instructors",
+    "Email": "DL_CityFireAcademyInstructors@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Paging Marine Team",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Paging Marine Team",
+    "Email": "DL_CityFirePagingMarineTeam@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Hansen ENG Final Acceptance",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Hansen ENG Final Acceptance",
+    "Email": "DL_CityHansenENGFinalAcceptance@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City ENG Final Acceptance",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City ENG Final Acceptance",
+    "Email": "DL_CityENGFinalAcceptance@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City 415 Building 2nd Floor",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City 415 Building 2nd Floor",
+    "Email": "DL_City415Building2ndFloor@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Honor Guard",
+    "GroupScope": 2,
+    "SamAccountName": "cityfirehonor",
+    "Email": "cityfirehonor@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire B Shift Captains",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire B Shift Captains",
+    "Email": "DL_CityFireBShiftCaptains@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City IT Application Services",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City IT Application Services",
+    "Email": "DL_CityITApplicationServices@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Emergency MGMT Policy Group",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Emergency MGMT Policy Group",
+    "Email": "DL_CityEmergencyMGMTPolicyGroup@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Hansen FMT Coordinator",
+    "GroupScope": 2,
+    "SamAccountName": "DL_CityHansenFMTCoordinator",
+    "Email": "DL_CityHansenFMTCoordinator@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire C Shift",
+    "GroupScope": 2,
+    "SamAccountName": "cityfirecshift",
+    "Email": "cityfirecshift@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Accounts Payable",
+    "GroupScope": 2,
+    "SamAccountName": "dlcityap",
+    "Email": "dlcityap@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Hall Safety Committee",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Hall Safety Committee",
+    "Email": "DL_CityHallSafetyCommittee@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Suppression All",
+    "GroupScope": 2,
+    "SamAccountName": "cityfiresuppression",
+    "Email": "cityfiresuppression@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City ENG As-Built",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City ENG As-Built",
+    "Email": "DL_CityENGAs-Built@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City 415 Building 1st & 2nd Floor",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City 415 Building 1st & 2nd Floor",
+    "Email": "DL_City415Building1st2ndFloor@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire A Shift",
+    "GroupScope": 2,
+    "SamAccountName": "cityfireAshift",
+    "Email": "cityfireAshift@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City MLT",
+    "GroupScope": 2,
+    "SamAccountName": "City MLT",
+    "Email": "CityMLT@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Local 452",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Local 452",
+    "Email": "DL_CityFireLocal452@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire C Shift Captains",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire C Shift Captains",
+    "Email": "DL_CityFireCShiftCaptains@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Budget Department Analysts",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Budget Department Analysts",
+    "Email": "DL_CityBudgetDepartmentAnalysts@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Structure Damage Notification",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Structure Damage Notification",
+    "Email": "DL_CityFireStructureDamageNotification@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Peer Support Team",
+    "GroupScope": 2,
+    "SamAccountName": "cityfirepeersupportteam",
+    "Email": "cityfirepeersupportteam@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City DECU",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City DECU",
+    "Email": "DL_CityDECU@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City CTR Administrator",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City CTR Administrator",
+    "Email": "DL_CityCTRAdministrator@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Construction Info",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Construction Info",
+    "Email": "DL_CityConstructionInfo@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Emergency MGMT Crisis Planning Team",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Emergency MGMT Crisis Planning Team",
+    "Email": "DL_CityEmergencyMGMTCrisisPlanningTeam@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire R and D Committee",
+    "GroupScope": 2,
+    "SamAccountName": "cityfireopscom",
+    "Email": "cityfirerdcom@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Paging HazMat Team",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Paging HazMat Team",
+    "Email": "DL_CityFirePagingHazMatTeam@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City IT Desktop Support",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City IT Desktop Support",
+    "Email": "DL_CityITDesktopSupport@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Non-Rep",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Non-Rep",
+    "Email": "DL_CityNon-Rep@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City IT Oracle Support",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City IT Oracle Support",
+    "Email": "DL_CityITOracleSupport@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City IT Virus Communication",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City IT Virus Communication",
+    "Email": "DL_CityITVirusCommunication@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City P&R MCC CSR's",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City P&R MCC CSR's",
+    "Email": "DL_CityParksMCCCSR@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City IT Software Maintenance",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City IT Software Maintenance",
+    "Email": "DL_CityITSoftwareMaintenance@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City IT Tech On-Call",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City IT Tech On-Call",
+    "Email": "DL_CityITTechOn-Call@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City IT Technical Services Team",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City IT Technical Services Team",
+    "Email": "DL_CityITTechnicalServicesTeam@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Poppulo",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Poppulo",
+    "Email": "DL_CityPoppulo@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Parking",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Parking",
+    "Email": "DL_CityParking@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Lean Green Belts",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Lean Green Belts",
+    "Email": "DL_CityLeanGreenBelts@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Parks & Recreation Benefitted Staff",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Parks & Recreation Benefitted Staff",
+    "Email": "DL_CityParksRecreationBenefittedStaff@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City LAW-DV",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City LAW-DV",
+    "Email": "DL_CityLAW-DV@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Lodging Tax Advisory Committee",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Lodging Tax Advisory Committee",
+    "Email": "DL_CityLodgingTaxAdvisoryCommittee@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Leadership Trainers",
+    "GroupScope": 2,
+    "SamAccountName": "Leadershiptrainers",
+    "Email": "Leadershiptrainers@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Neighborhood Liaisons",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Neighborhood Liaisons",
+    "Email": "DL_CityNeighborhoodLiaisons@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Vancouver Public Facilities District Board",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Vancouver Public Facilities District Board",
+    "Email": "DL_CityVancouverPublicFacilitiesDistrictBoard@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD Training Group",
+    "GroupScope": 2,
+    "SamAccountName": "vpdtrain",
+    "Email": "vpdtrain@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD West Precinct Patrol",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City VPD West Precinct",
+    "Email": "DL_CityVPDWestPrecinct@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Timecards Due Reminder",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Timecards Due Reminder",
+    "Email": "DL_CityTimecardsDueReminder@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Sidewalks",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Sidewalks",
+    "Email": "DL_CitySidewalks@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD NRT East",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City VPD NRT East",
+    "Email": "DL_CityVPDNRTEast@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD Records All",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City VPD Records All",
+    "Email": "DL_CityVPDRecordsAll@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD West Precinct Building",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City VPD West Precinct Building",
+    "Email": "DL_CityVPDWestPrecinctBuilding@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD Guild",
+    "GroupScope": 2,
+    "SamAccountName": "cityvpdguild",
+    "Email": "cityvpdguild@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City IT System Admin Pagers",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City IT System Admin Pagers",
+    "Email": "DLCityITSystemAdminPagers@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City IT System Administrators",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City IT System Administrators",
+    "Email": "DLCityITSystemAdministrators@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Police Availability Report",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Police Availability Report",
+    "Email": "CityPoliceAvailabilityReport@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD Traffic Unit",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City VPD Traffic Unit",
+    "Email": "DL_CityVPDTrafficUnit@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Picnic Committee",
+    "GroupScope": 2,
+    "SamAccountName": "picnic",
+    "Email": "picnic@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Windows Updates SMEs",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Windows Updates SMEs",
+    "Email": "dlcitywindowsupdatessmes@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, SSRS OPS Quality Control Automated",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ SSRS OPS Quality Control Automated",
+    "Email": "ssrsopsqualitycontrol@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD Recruitment Team",
+    "GroupScope": 2,
+    "SamAccountName": "vpdrt",
+    "Email": "vpdrt@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, VPD Workers Comp",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ VPD Workers Comp",
+    "Email": "DL_VPDWorkersComp@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Surface Water General Delivery",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Surface Water General Delivery",
+    "Email": "surfacewater@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD HQ",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City VPD HQ",
+    "Email": "DL_CityVPDHQ@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Traffic Calming Program",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Traffic Calming Program",
+    "Email": "DL_CityTrafficCalmingProgram@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Viewpoints",
+    "GroupScope": 2,
+    "SamAccountName": "Viewpoints",
+    "Email": "Viewpoints@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD NRT WEST",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City VPD NRT WEST",
+    "Email": "DL_CityVPDNRTWEST@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD Civilians",
+    "GroupScope": 2,
+    "SamAccountName": "vpdcivil",
+    "Email": "vpdcivil@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Parks FCC CSR's",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Parks FCC CSR's",
+    "Email": "DL_CityParksFCCCSR@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Parks FCC CSR/CSH Front Desk Staff",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Parks FCC CSR_CSH Front Desk Staff",
+    "Email": "DL_CityParksFCCCSR_CSHFrontDeskStaff@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Supervisor Trainers",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Supervisor Trainers",
+    "Email": "DL_CitySupervisorTrainers@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD Investigations Div Supervisors",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City VPD Investigations Div Supervisors",
+    "Email": "DL_CityVPDInvestigationsDivSupervisors@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD DOC",
+    "GroupScope": 2,
+    "SamAccountName": "cityvpddoc",
+    "Email": "cityvpddoc@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City ePlans",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City ePlans",
+    "Email": "DL_CityePlans@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "Dl, City VPD Lieutenants",
+    "GroupScope": 2,
+    "SamAccountName": "Dl_ City VPD Lieutenants",
+    "Email": "cityvpdlieuts@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City ProjectDox Support",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City ProjectDox Support",
+    "Email": "DL_CityProjectDoxSupport@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Timecard Approvers",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Timecard Approvers",
+    "Email": "DL_CityTimecardApprovers@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD Detectives",
+    "GroupScope": 2,
+    "SamAccountName": "cityvpdtod",
+    "Email": "cityvpdtod@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Parks & Recreation Commissioners",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Parks & Recreation Commissioners",
+    "Email": "DL_CityParksRecreationCommissioners@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD Records Supervisors",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City VPD Records Supervisors",
+    "Email": "DL_CityVPDRecordsSupervisors@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Workday SME Team",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Workday SME Team",
+    "Email": "workdaysmeteam@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire FCOs",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire FCOs",
+    "Email": "DL_CityFireFCOs@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City SQL Operators",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City SQL Operators",
+    "Email": "DL_CitySQLOperators@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Total Compensation Study Questions",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Total Compensation Study Questions",
+    "Email": "DL_CityTotalCompensationStudyQuestions@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Planning Commission",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Planning Commission",
+    "Email": "DL_CityPlanningCommission@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City B&C Staff",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City B&C Staff",
+    "Email": "DLCityBCStaff@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City IT Sysadmin Email Alerts",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City IT Sysadmin Email Alerts-1364303136",
+    "Email": "syadminalerts@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City RJNXFER",
+    "GroupScope": 2,
+    "SamAccountName": "rjnxfer",
+    "Email": "rjnxfer@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Public Facilities District Board",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Public Facilities District Board",
+    "Email": "DL_CityPublicFacilitiesDistrictBoard@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD East Precinct Building",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City VPD East Precinct Building",
+    "Email": "DL_CityVPDEastPrecinctBuilding@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Workday Citywide User Group",
+    "GroupScope": 2,
+    "SamAccountName": "workdaycitywideusergroup",
+    "Email": "workdaycitywideusergroup@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City High School Diversity Project",
+    "GroupScope": 1,
+    "SamAccountName": "DL_ City High School Diversity Project",
+    "Email": null,
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Ops Support Specialists_Reviewer",
+    "GroupScope": 2,
+    "SamAccountName": "City Ops Support Specialists_Reviewer",
+    "Email": null,
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Ops Support Specialists",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Ops Support Specialists",
+    "Email": null,
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Station 4 Crews",
+    "GroupScope": 1,
+    "SamAccountName": "DL_ City Fire Station 4 Crews",
+    "Email": null,
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Public Works Communications",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Public Works Communications",
+    "Email": "PWCommunications@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD Special Ops",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City VPD Special Ops",
+    "Email": "DL_vpdspecialops@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "City VPD Property Crime Unit_Full Access",
+    "GroupScope": 2,
+    "SamAccountName": "City VPD Property Crime Unit_Full Access",
+    "Email": "CityVPDPropertyCrimeUnit_FullAccess@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, DV Attorneys - External County Mail-Contact",
+    "GroupScope": 2,
+    "SamAccountName": "DLDVAttorneys",
+    "Email": "DLDVAttorneys@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, DV Ext Disc Notifications - External County Mail-Contact",
+    "GroupScope": 2,
+    "SamAccountName": "DLDVExtDiscNotifications",
+    "Email": "DLDVExtDiscNotifications@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, Legal Update - External County Mail-Contact",
+    "GroupScope": 2,
+    "SamAccountName": "DLLegalUpdate",
+    "Email": "DLLegalUpdate@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, RMSCMS Users - External County Mail-Contact",
+    "GroupScope": 2,
+    "SamAccountName": "DLRMSCMSUsers",
+    "Email": "DLRMSCMSUsers@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, DVPC E-File - External County Mail-Contact",
+    "GroupScope": 2,
+    "SamAccountName": "dldvpcefile",
+    "Email": "dldvpcefile@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, COVID 19 Situation Report",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ COVID 19 Situation Report-1357727178",
+    "Email": "covid19sitrep@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, EOC COVID 19 Staff",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ EOC COVID 19 Staff-11071147119",
+    "Email": "eoccovid19staff@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Regular Employees",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Regular Employees-1-805124895",
+    "Email": "dlcityregemployee@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "SFTP-Airlift",
+    "GroupScope": 1,
+    "SamAccountName": "SFTP-Airlift",
+    "Email": null,
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City CJC",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City CJC-1885390575",
+    "Email": "dlcitycjc@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City CJC Supporters - External County Mail Contact",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City CJC Supporters - External County Mail Contact-1466494082",
+    "Email": "dlcjcsupporters@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City RTW Champions",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City RTW Champions-1-234708091",
+    "Email": "dlcityrtwchampions@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Transportation & Mobility Commission",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Transportation & Mobility Commission-11616854061",
+    "Email": "DL_CityTransMobilityCommission@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Marine Leadership",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Marine Leadership-1-501598647",
+    "Email": "DL_CityfireMarineLeadership@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fleet Services",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fleet Services-1-1072097023",
+    "Email": "dlcityfleetservices@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Mcloughlin Safety",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Mcloughlin Safety-11507302810",
+    "Email": "DL_CityMcloughlinSafety@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Parks and Recreation Center Opening",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Parks and Recreation Center Opening-184510649",
+    "Email": "DL_CityParksRecCenterOpening@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Vancouver Moves",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Vancouver Moves-1-1603488658",
+    "Email": "DL_CityVancouverMoves@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fourth Plain Safety",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fourth Plain Safety-1294276730",
+    "Email": "DL_CityFourthPlainSafety@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Parks Rec Distance Learning",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Parks Rec Distance Learning-11430217489",
+    "Email": "cityparkrecdistancelearning@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City FCC Open Sept 14",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City FCC Open Sept 14-1-1110070769",
+    "Email": "DL_CityFFCOpenSept14@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Utility Restores",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Utility Restores",
+    "Email": "CityUtilitiesRestoresPagers@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD Drone",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City VPD Drone-18835357",
+    "Email": "DL_CityVPDDrone@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City VPD Command Guild",
+    "GroupScope": 2,
+    "SamAccountName": "DL_City VPD Command Guild",
+    "Email": "CityVPDCommandGuild@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, COVID Notification Team",
+    "GroupScope": 2,
+    "SamAccountName": "covidnotificationteam",
+    "Email": "DL?COVIDNotificationTeam@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, Public Works Pavement Management",
+    "GroupScope": 2,
+    "SamAccountName": "pwpavementmanagement",
+    "Email": "pwpavementmanagement@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Marshall's Office - LT",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Marshall's Office - LT-1-1278583875",
+    "Email": "fmolt@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, Fire Personnel Changes",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ Fire Personnel Changes-1-101590530",
+    "Email": "FirePersonnelChanges@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, VFD Court",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ VFD Court-11790213246",
+    "Email": "vfdcourt@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, Fire Hydrant OOS",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ Fire Hydrant OOS-1-1487555694",
+    "Email": "FireHydrantOOS@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, Culture Arts and Heritage Commission",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ Culture Arts and Heritage Commission-1-2065530705",
+    "Email": "CAHcommission@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, Public Art Committee",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ Public Art Committee-1-2114358100",
+    "Email": "publicartcommittee@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, Arson Unit",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ Arson Unit-1140005932",
+    "Email": "DL_ArsonUnit@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Eplans Send to",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Eplans Send to-1-1752991650",
+    "Email": "dlcityeplanssendto@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, Risk and Safety Incident Reporting",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ Risk and Safety Incident Reporting-11115710416",
+    "Email": "riskandsafetyreporting@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, Comprehensive Planning",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ Comprehensive Planning-1960014094",
+    "Email": "DL_comprehensiveplanning@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, Development Review",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ Development Review-1-729503306",
+    "Email": "DL_developmentreview@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, Community Development Department",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ Community Development Department-1673934492",
+    "Email": "DL_communitydevelopment@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, PW GIS",
+    "GroupScope": 2,
+    "SamAccountName": "dlpwgis",
+    "Email": "dlpwgis@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, COV GIS",
+    "GroupScope": 2,
+    "SamAccountName": "dlcovgis",
+    "Email": "dlcovgis@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, Fire Local 4378",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ Fire Local 4378-1-1469552897",
+    "Email": "firelocal4378@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Shipboard",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Shipboard-1425557494",
+    "Email": "DL_cityfireshipboard@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Press Release",
+    "GroupScope": 2,
+    "SamAccountName": "DL_City FirePressRelease",
+    "Email": "DL_City FirePressRelease@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Fire Paging Shipboard",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Fire Paging Shipboard-1-912786390",
+    "Email": "dl_firepagingshipboard@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, Fire Travel",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ Fire Travel-1-1841322712",
+    "Email": "firetravel@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, Fire Recruits",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ Fire Recruits-1-1937073458",
+    "Email": "firerecruits@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, Sanitary Sewer Overflow",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ Sanitary Sewer Overflow-1-1413967259",
+    "Email": "SanitarySewerOverflow@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, Fire Paging Duty Chiefs",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ Fire Paging Duty Chiefs-1-657422272",
+    "Email": "DL_FirePagingDutyChiefs@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, VPD BWC Testers",
+    "GroupScope": 2,
+    "SamAccountName": "DL_VPD BWC Testers-1-1137248933",
+    "Email": "DL_VPDBWCTesters@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, VPD Exec Team",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ VPD Exec Team-1-1646721093",
+    "Email": "DL_VPDExec@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, City Community Task Force on Council Representation",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ City Community Task Force on Council Representation",
+    "Email": "DLCommunityTaskForceCouncilRepresentation@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "City VPD Covertrack Devices_Full Access",
+    "GroupScope": 2,
+    "SamAccountName": "City VPD Covertrack Devices_Full Access",
+    "Email": "CityVPDCovertrackDevices_FullAccess@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, Addressing Notification",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ Addressing Notification-1-1989902090",
+    "Email": "addressingnotification@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, 415 Building 5th Floor",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ 415 Building 5th Floor-11873771530",
+    "Email": "DL_415Building5thFloor@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, Transportation",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ Transportation-11844308289",
+    "Email": "dl_transportation@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, Ops Management Team",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ Ops Management Team-1-55806274",
+    "Email": "dl_opsmanagement@cityofvancouver.us",
+    "GroupCategory": 0
+  },
+  {
+    "DisplayName": "DL, VPD LexisNexis",
+    "GroupScope": 2,
+    "SamAccountName": "DL_ VPD LexisNexis-1-667982122",
+    "Email": "DL_VPDLexisNexis@cityofvancouver.us",
+    "GroupCategory": 0
+  }
+]

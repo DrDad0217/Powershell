@@ -1,4 +1,4 @@
-function PingTest {
+function Ping-Test {
     [CmdletBinding()]
     param (
         

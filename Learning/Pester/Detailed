@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-results xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="nunit_schema_2.5.xsd" name="Pester" total="4" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2022-11-22" time="15:29:38">
+  <environment user-domain="INTERNAL" clr-version="Unknown" platform="Microsoft Windows 10 Enterprise|C:\WINDOWS|\Device\Harddisk0\Partition3" cwd="C:\Users\covschmidtt\GitHub\Powershell\Learning\Pester" nunit-version="2.5.8.0" user="covschmidtt" machine-name="INT013685L" os-version="10.0.19044" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="TestFixture" name="Pester" executed="True" result="Success" success="True" time="0.0657" asserts="0" description="Pester">
+    <results>
+      <test-suite type="TestFixture" name="C:\Users\covschmidtt\GitHub\Powershell\Learning\Pester\Get-Planet.Tests.ps1" executed="True" result="Success" success="True" time="0.0657" asserts="0" description="C:\Users\covschmidtt\GitHub\Powershell\Learning\Pester\Get-Planet.Tests.ps1">
+        <results>
+          <test-suite type="TestFixture" name="Get-Planet" executed="True" result="Success" success="True" time="0.0504" asserts="0" description="Get-Planet">
+            <results>
+              <test-case description="Given no parameters, it lists all 8 planets" name="Get-Planet.Given no parameters, it lists all 8 planets" time="0.0018" asserts="0" success="True" result="Success" executed="True" />
+              <test-case description="Earth is the third planet in our Solar System" name="Get-Planet.Earth is the third planet in our Solar System" time="0.0019" asserts="0" success="True" result="Success" executed="True" />
+              <test-case description="Pluto is not part of our Solar System" name="Get-Planet.Pluto is not part of our Solar System" time="0.002" asserts="0" success="True" result="Success" executed="True" />
+              <test-case description="Planets have this order: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune" name="Get-Planet.Planets have this order: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune" time="0.0026" asserts="0" success="True" result="Success" executed="True" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
